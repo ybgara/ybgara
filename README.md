@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Tegar Wibisana U Can Call Me "Gara"</h1>
 <h3 align="center">One of Many People From Indonesian 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybgara&label=Profile%20views&color=0e75b6&style=flat" alt="ybgara" /> </p>
+- ♡ What i learn : **Any, just what i want to learn.**
 
-<p align="left"> <a href="https://twitter.com/ybgara" target="blank"><img src="https://img.shields.io/twitter/follow/ybgara?logo=twitter&style=for-the-badge" alt="ybgara" /></a> </p>
+- ♡ My experience ? : **I Haven't Great Experience on My Life**
 
-- 🌱 I’m currently learning **Any, just what i want to learn.**
+- ♡ Contact me on : **TegarYourBae@gmail.com**
 
-- 💬 Ask me about **I Haven't Great Experience on My Life**
-
-- 📫 How to reach me **TegarYourBae@gmail.com**
-
-- ⚡ Fun fact **Just Perfect Introvert All of The Time**
+- ♡ About Me : **Just Perfect Introvert All of The Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybgara&show_icons=true&locale=en&layout=compact" alt="ybgara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybgara&show_icons=true&locale=en" alt="ybgara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybgara&" alt="ybgara" /></p>
 
