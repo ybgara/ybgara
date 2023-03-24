@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ybgara" target="blank"><img src="https://img.shields.io/twitter/follow/ybgara?logo=twitter&style=for-the-badge" alt="ybgara" /></a> </p>
 
-<img align="right" alt="No One" width="300" src="https://github.com/ybgara/ybgara/blob/main/Obito%20Uchiha%20Sharingan.gif" >
+<img align="right" alt="No One" width="250" src="https://github.com/ybgara/ybgara/blob/main/Obito%20Uchiha%20Sharingan.gif" >
 
 
  ❤ What i learn    : **Any, just what i want to learn.**
