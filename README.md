@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ybgara" target="blank"><img src="https://img.shields.io/twitter/follow/ybgara?logo=twitter&style=for-the-badge" alt="ybgara" /></a> </p>
 
-<img align="right" alt="Nothing" width="200" src="![image](https://user-images.githubusercontent.com/95567621/227619114-12b2a396-0c94-4c0d-ad4b-09f73e27d202.png)" >
+<img align="right" alt="Nothing" width="200" src="[![image](https://user-images.githubusercontent.com/95567621/227619114-12b2a396-0c94-4c0d-ad4b-09f73e27d202.png)](https://pa1.narvii.com/6560/03afdc5b9d7a71f565fb75d25aa6bb2cc3a4901c_hq.gif)" >
 
 
  ❤ What i learn    : **Any, just what i want to learn.**
