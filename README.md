@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Tegar Wibisana U Can Call Me "Gara"</h1>
 <h3 align="center">One of Many People From Indonesian 🇮🇩</h3>
 
- ♡ What i learn : **Any, just what i want to learn.**
+ ❤ What i learn    : **Any, just what i want to learn.**
 
- ♡ My experience ? : **I Haven't Great Experience on My Life**
+ ❤ My experience ? : **I Haven't Great Experience on My Life**
 
- ♡ Contact me on : **TegarYourBae@gmail.com**
+ ❤ Contact me on   : **TegarYourBae@gmail.com**
 
- ♡ About Me : **Just Perfect Introvert All of The Time**
+ ❤ About Me        : **Just Perfect Introvert All of The Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
