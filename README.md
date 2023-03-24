@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ybgara" target="blank"><img src="https://img.shields.io/twitter/follow/ybgara?logo=twitter&style=for-the-badge" alt="ybgara" /></a> </p>
 
+<img align="right" alt="Nothing" width="400" src="https://tenor.com/view/sasuke-uchiha-sad-naruto-anime-gif-16768301" >
+
+
  ❤ What i learn    : **Any, just what i want to learn.**
 
  ❤ My experience ? : **I Haven't Great Experience on My Life**
