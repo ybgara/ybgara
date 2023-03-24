@@ -1,3 +1,5 @@
+![logo](https://github.com/ybgara/ybgara/blob/main/Obito.jpeg)
+
 <h1 align="center">Hi, I'm Tegar Wibisana U Can Call Me "Gara"</h1>
 <h3 align="center">One of Many People From Indonesian 🇮🇩</h3>
 
