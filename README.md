@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Tegar Wibisana U Can Call Me "Gara"</h1>
 <h3 align="center">One of Many People From Indonesian 🇮🇩</h3>
 
+<p align="left"> <a href="https://twitter.com/ybgara" target="blank"><img src="https://img.shields.io/twitter/follow/ybgara?logo=twitter&style=for-the-badge" alt="ybgara" /></a> </p>
+
  ❤ What i learn    : **Any, just what i want to learn.**
 
  ❤ My experience ? : **I Haven't Great Experience on My Life**
