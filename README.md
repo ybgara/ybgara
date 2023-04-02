@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ybgara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ybgara" height="30" width="40" /></a>
-<a href="https://fb.com/tegarwibisana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tegar Wibisana" height="30" width="40" /></a>
+<a href="https://fb.com/tegarwibisana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tegar.wibisana.5" height="30" width="40" /></a>
 <a href="https://instagram.com/garayaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garayaaaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tegarwibisana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tegarwibisana" height="30" width="40" /></a>
 <a href="https://discord.gg/Gara#9351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gara#9351" height="30" width="40" /></a>
